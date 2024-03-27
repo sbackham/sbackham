@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Artisphere, the artists' social networking site](https://github.com/sbackham/ArtiSphere)
 
-- 🌱 I’m currently learning **Django, AWS, and application containerizing**
+- 🌱 I’m currently learning **Django, AWS, and application containerizing (with Docker!)**
 
 - 💬 Ask me about **my current Senior capstone project or my past AI projects!**
 
