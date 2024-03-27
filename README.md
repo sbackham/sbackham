@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **sirena.backham@gmail.com**
 
+### Achievements
+- Won "Best Domain Name" at the University of Iowa Hackathon 2022
+- Placed 3rd place overall at the University of Iowa Hackathon with Dubious Studio! :cat:
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
