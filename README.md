@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sirena!</h1>
+<h2 align="center">Hi 👋, I'm Sirena!</h2>
 <h3 align="center">A passionate full-stack developer, currently set to graduate from the University of Iowa (CSE) in May.</h3>
 
 
