@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sirena!</h1>
 <h3 align="center">A passionate full-stack developer, currently set to graduate from the University of Iowa (CSE) in May.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbackham" alt="sbackham" /></a> </p>
 
 - 🔭 I’m currently working on [Artisphere, the artists' social networking site](https://github.com/sbackham/ArtiSphere)
 
