@@ -12,7 +12,7 @@
 
 ### Achievements
 - Won "Best Domain Name" at the University of Iowa Hackathon 2022
-- Placed 3rd place overall at the University of Iowa Hackathon with Dubious Studio! :cat:
+- Placed 3rd place overall at the University of Iowa Hackathon 2023 with Dubious Studio! :cat:
 
 ### Languages
 
