@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django, AWS, and application containerizing (with Docker!)**
 
-- 💬 Ask me about **my current Senior capstone project or my past AI projects!**
+- 💬 Ask me about **my Senior capstone project or my past AI projects!**
 
 - 📫 How to reach me **sirena.backham@gmail.com**
 
