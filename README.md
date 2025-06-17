@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full-stack developer with with a strong focus on front end dev and AI/ML applications. </h3>
 
 
-- 🔭 I’m currently working on [Artisphere, the artists' social networking site](https://github.com/sbackham/ArtiSphere)
-
 - 🌱 I’m currently learning **AWS Bedrock, and application containerizing (with Docker!)**
 
 - 💬 Ask me about **my Senior capstone project or my past AI projects!**
