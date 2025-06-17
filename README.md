@@ -1,7 +1,10 @@
 <h2 align="center">Hi 👋, I'm Sirena!</h2>
 <h3 align="center">A passionate full-stack developer with with a strong focus on front end dev and AI/ML applications. </h3>
 
-
+- 🎓 University of Iowa alum with a B.S.E. in Computer Science and Engineering
+- 
+- 💻 Full Stack Developer | Front-End Focused | Problem Solver
+- 
 - 🌱 I’m currently learning **AWS Bedrock, and application containerizing (with Docker!)**
 
 - 💬 Ask me about **my Senior capstone project or my past AI projects!**
@@ -30,6 +33,12 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+## 💬 More About Me
+
+Outside of tech, I enjoy:
+🎮 Gaming | 🍳 Cooking | ✈️ Traveling | 🌄 Scenic Hikes | 🎨 Arts & Crafts | 🐈 Hanging out with my cat
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
