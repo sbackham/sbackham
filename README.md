@@ -38,10 +38,5 @@ Outside of tech, I enjoy:
 🎮 Gaming | 🍳 Cooking | ✈️ Traveling | 🌄 Scenic Hikes | 🎨 Arts & Crafts | 🐈 Hanging out with my cat
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sirenabackham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sbackham" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbackham&show_icons=true&locale=en&layout=compact" alt="sbackham" /></p>
 
