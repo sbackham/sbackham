@@ -38,5 +38,3 @@ Outside of tech, I enjoy:
 🎮 Gaming | 🍳 Cooking | ✈️ Traveling | 🌄 Scenic Hikes | 🎨 Arts & Crafts | 🐈 Hanging out with my cat
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbackham&show_icons=true&locale=en&layout=compact" alt="sbackham" /></p>
-
