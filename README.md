@@ -5,11 +5,7 @@
   
 - 💻 Full Stack Developer | Front-End Focused | Problem Solver
   
-- 🌱 I’m currently learning **AWS Bedrock, and Agentic AI flows!**
-
-- 💬 Ask me about **my Senior capstone project or my past AI projects!**
-
-- 📫 How to reach me **sirena.backham@gmail.com**
+- 🌱 I’m currently learning **AWS, GCP and Agentic AI flows!**
 
 ### Achievements
 - Won "Best Domain Name" at the University of Iowa Hackathon 2022
